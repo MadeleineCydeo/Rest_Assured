@@ -12,6 +12,8 @@ public class P01_simpleGetRequest {
 
 
 
+
+
     /*
         When users send request to /api/spartans endpoint
         Then user should be abel to see status code is 200
