@@ -10,10 +10,6 @@ public class P01_simpleGetRequest {
 
     String url ="http://44.201.221.73:8000/api/spartans";
 
-
-
-
-
     /*
         When users send request to /api/spartans endpoint
         Then user should be abel to see status code is 200
